@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
   #### 🧰 DEV TOOLS
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
   <br>
   
@@ -36,7 +36,7 @@
   <!-- 4. GITHUB STATS (네온 옐로우/블루 감성의 다크 테마) -->
   ### 📊 [ USER_STATS ]
 
-  <img src="https://github-readme-stats.vercel.app/api?username=[내_깃허브_ID]&show_icons=true&theme=tokyonight&bg_color=05050a&title_color=fcee0a&text_color=00f0ff&icon_color=ff0055" alt="Cyberpunk GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asz3232&show_icons=true&theme=tokyonight&bg_color=05050a&title_color=fcee0a&text_color=00f0ff&icon_color=ff0055" alt="Cyberpunk GitHub Stats" />
 
   <br>
 
